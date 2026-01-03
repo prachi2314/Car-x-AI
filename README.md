@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gemini AI-Integrated Car Marketplace: AI-x-Car  
 
 AI-x-Car is a next-gen car marketplace where users can buy, sell, and book test drives effortlessly. Designed with speed, automation, and AI-powered precision, this platform leverages Gemini AI to completely transform the car-buying experience.  
@@ -145,3 +146,6 @@ This project is organized as follows:
 
 1. Install dependencies:
       npm install --legacy-peer-deps
+=======
+# Car-x-AI
+>>>>>>> ea9141e7c5a90198988cda4865ffd4f69490d360
